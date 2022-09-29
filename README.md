@@ -14,11 +14,11 @@ The report starts from this line
 
 
 ### Links
-[Presentation page](msilva2248.github.io.) (e.g. https://huyen-nguyen.github.io/hci-template, contains content of this README)
+[Presentation page](https://msilva2248.github.io/p1.Matthew.Silva/)
 
 [GitHub repository](https://github.com/msilva2248/p1.Matthew.Silva)
 
-[Demo](https://huyen-nguyen.github.io/hci-template/demo.html) (e.g. https://huyen-nguyen.github.io/hci-template/demo.html, the demo file **should not** be named index.html)
+[Demo](https://media.giphy.com/media/NXVF5ZL5lLwcvSuFdI/giphy.gif)
 
 ### Getting C:
 - Find an elevator in the apartment/campus/hotel. Only one example for each student: The elevator in the ECE building
