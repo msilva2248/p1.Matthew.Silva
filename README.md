@@ -18,7 +18,7 @@ The report starts from this line
 
 [GitHub repository](https://github.com/msilva2248/p1.Matthew.Silva)
 
-[Demo](https://media.giphy.com/media/NXVF5ZL5lLwcvSuFdI/giphy.gif)
+[Demo](p1.Matthew.Silva.gif)
 
 ### Getting C:
 - Find an elevator in the apartment/campus/hotel. Only one example for each student: The elevator in the ECE building
