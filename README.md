@@ -30,7 +30,7 @@ The report starts from this line
 
 -  Show a gif image of the control interface in operation.
 
-![Elevator_Gif_Matt](https://media.giphy.com/media/fDlrDf6loVRfD7FUP7/giphy.gif)
+![Elevator_Gif_Matt](gif.gif)
 
 - Find the issues with the current design.
 
